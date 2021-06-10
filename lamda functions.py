@@ -17,11 +17,11 @@ print(minus(9,5))
 
 '''
 
-# def a_first(a):
-#     return a[1]
-# a = [[1,14], [0,6], [8,13]]
-# a.sort(key = a_first)
-# print(a)
+ def a_first(a):
+     return a[1]
+ a = [[1,14], [0,6], [8,13]]
+ a.sort(key = a_first)
+ print(a)
 '''
 # here these two functions does the same thing
 
